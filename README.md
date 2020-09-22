@@ -4,6 +4,8 @@ This project is based on the tutorial from Beau Carnes on [How to build a Quiz a
 
 I have followed the video tutorial and will incrementally improve on their solution to better improve my understanding of React, Typescript and Styled Components.
 
+You can view the live demo of this repo over at [https://timbryandev-react-typescript-quiz-app.netlify.app/](https://timbryandev-react-typescript-quiz-app.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
