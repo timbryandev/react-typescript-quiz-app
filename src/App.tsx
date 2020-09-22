@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { fetchQuizQuestions, Question } from './API';
+import { fetchQuizQuestions /*, Question */ } from './API';
 // Components
 import QuestionCard from './components/QuestionCard';
 // Types
